@@ -6,9 +6,11 @@ using Dalamud.Game.Gui;
 using Dalamud.IoC;
 using Dalamud.Logging;
 using Dalamud.Plugin;
+
+using DalamudPluginProjectTemplate;
 using DalamudPluginProjectTemplate.Attributes;
 
-namespace DalamudPluginProjectTemplate
+namespace EurekaPlugin
 {
     public class Plugin : IDalamudPlugin
     {

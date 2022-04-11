@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EurekaPlugin", "EurekaPlugin\EurekaPlugin.csproj", "{517A4352-7F10-48B9-B332-BB592157E377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EurekaPluginTests", "EurekaPluginTests\EurekaPluginTests.csproj", "{0B97199C-94E6-4CAD-899C-D95EB9675074}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E5F1FA28-C851-4A3C-A19C-DADCF58EAAEC}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{517A4352-7F10-48B9-B332-BB592157E377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517A4352-7F10-48B9-B332-BB592157E377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517A4352-7F10-48B9-B332-BB592157E377}.Debug|x64.ActiveCfg = Debug|x64
+		{517A4352-7F10-48B9-B332-BB592157E377}.Debug|x64.Build.0 = Debug|x64
+		{517A4352-7F10-48B9-B332-BB592157E377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517A4352-7F10-48B9-B332-BB592157E377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517A4352-7F10-48B9-B332-BB592157E377}.Release|x64.ActiveCfg = Release|x64
+		{517A4352-7F10-48B9-B332-BB592157E377}.Release|x64.Build.0 = Release|x64
+		{0B97199C-94E6-4CAD-899C-D95EB9675074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B97199C-94E6-4CAD-899C-D95EB9675074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B97199C-94E6-4CAD-899C-D95EB9675074}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0B97199C-94E6-4CAD-899C-D95EB9675074}.Debug|x64.Build.0 = Debug|Any CPU
+		{0B97199C-94E6-4CAD-899C-D95EB9675074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B97199C-94E6-4CAD-899C-D95EB9675074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B97199C-94E6-4CAD-899C-D95EB9675074}.Release|x64.ActiveCfg = Release|Any CPU
+		{0B97199C-94E6-4CAD-899C-D95EB9675074}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {737C58B1-7FE2-4A03-8D02-B0E137667789}
+	EndGlobalSection
+EndGlobal

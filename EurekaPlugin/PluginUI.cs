@@ -1,6 +1,6 @@
 ﻿using ImGuiNET;
 
-namespace DalamudPluginProjectTemplate
+namespace EurekaPlugin
 {
     public class PluginUI
     {
